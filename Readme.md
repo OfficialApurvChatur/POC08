@@ -53,6 +53,7 @@ Visit Agile Management Board
       end
 
       subgraph Backend["Backend"]
+        Node["Node"]
       end
     end
 
@@ -67,3 +68,22 @@ Visit Agile Management Board
 #### 02.05. Servers & DNS Setup LLD
 
 #### 02.06. CI/CD Deployment Setup LLD
+
+## Servers & DNS
+
+### Backend
+- Development
+  - Local: [http://localhost:8000](http://localhost:8000)
+  - Live: []()
+
+- Testing
+  - Local: []()
+  - Live: []()
+
+- Staging
+  - Local: []()
+  - Live: []()
+
+- Production
+  - Local: []()
+  - Live: []()
